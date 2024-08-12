@@ -15,7 +15,7 @@ Project consists of two simple Python programs that I created in an introductory
 - <b>Python 3.12</b>
 
 
-<h2>Program walk-through:</h2>
+<h2>Pictures of Code:</h2>
 
 <p align="center">
 Program #1: <br/>
